@@ -1,0 +1,5 @@
+projectKey=Anteojitos
+serverUrl=http://localhost:9000/sonar
+dashboardUrl=http://localhost:9000/sonar/dashboard/index/Anteojitos
+ceTaskId=AVzSeBC9Dnu-KsFiJAut
+ceTaskUrl=http://localhost:9000/sonar/api/ce/task?id=AVzSeBC9Dnu-KsFiJAut
